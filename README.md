@@ -2,6 +2,12 @@
 
 Link de data: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
 
+![1](https://github.com/user-attachments/assets/65f59274-2aee-41f8-be90-5625c17f6f9e)
+
+![2](https://github.com/user-attachments/assets/8e9f3a01-5861-4839-925c-35ee4979b88d)
+
+![3](https://github.com/user-attachments/assets/3dcec623-c895-486a-bafe-55c7dc3e31b9)
+
 **Requerimiento empresarial.**
 
 El objetivo principal de este proyecto es analizar cómo diversos factores externos influyen en las ventas semanales y poder así ofrecer recomendaciones estratégicas que permitan optimizar las ventas. A continuación, detallo los aspectos clave que nos gustaría explorar:
