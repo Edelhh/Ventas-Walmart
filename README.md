@@ -1,6 +1,12 @@
 # *Análisis de ventas Walmart 2010 – 2012.*
 
-Link de data: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
+### **Link de data:** https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
+
+## **Descripción:** 
+A continuación, se presenta un proyecto de análisis de ventas utilizando el conjunto de datos de Walmart de Kaggle, abarcando los años 2010 a 2012, mediante la herramienta Power BI. Para simular un entorno real de negocios, se solicitó a Chat GPT que actuara como cliente, generando un requerimiento de negocio específico. Los datos fueron sometidos a un proceso de limpieza, transformación y modelado.
+
+El resultado es un dashboard de tres páginas diseñado para responder de manera efectiva al requerimiento planteado.
+
 
 ![1](https://github.com/user-attachments/assets/65f59274-2aee-41f8-be90-5625c17f6f9e)
 
@@ -8,7 +14,7 @@ Link de data: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
 
 ![3](https://github.com/user-attachments/assets/3dcec623-c895-486a-bafe-55c7dc3e31b9)
 
-**Requerimiento empresarial.**
+## **Requerimiento empresarial.**
 
 El objetivo principal de este proyecto es analizar cómo diversos factores externos influyen en las ventas semanales y poder así ofrecer recomendaciones estratégicas que permitan optimizar las ventas. A continuación, detallo los aspectos clave que nos gustaría explorar:
 
@@ -17,7 +23,7 @@ El objetivo principal de este proyecto es analizar cómo diversos factores exter
 1. **Influencias Externas:** Analizar el impacto de la temperatura, precios del combustible, CPI y tasas de desempleo en las ventas.
 1. **Comparación entre Tiendas:** Realizar comparaciones de desempeño entre las diferentes tiendas.
 
-**Diccionario de datos.**
+## **Diccionario de datos.**
 
 El dataset de Walmart contiene las siguientes columnas:
 
@@ -30,7 +36,7 @@ El dataset de Walmart contiene las siguientes columnas:
 1. **CPI**: Índice de Precios al Consumidor.
 1. **Unemployment**: Tasa de desempleo en la región de la tienda.
 
-**Limpieza de datos y transformación.**
+## **Limpieza de datos y transformación.**
 
 - Los datos no se encontraban con datos faltantes.
 - Se cambio nombre de las columnas al español.
@@ -38,13 +44,13 @@ El dataset de Walmart contiene las siguientes columnas:
 - Nueva columna semana del año.
 - Nuevas medidas promedio de semanal de ventas en feriados, sin feriados y promedio por tienda.
 
-**Modelado de datos.**
+## **Modelado de datos.**
 
 A continuación, se muestra una captura de pantalla del modelo de datos. En este caso se usó solo una tabla.
 
+![image](https://github.com/user-attachments/assets/5b0a47c8-78a9-4e13-bbfa-8d7276594731)
 
-
-**Panel de control de ventas.**
+## **Panel de control de ventas.**
 
 El panel de control de ventas terminado tiene tres páginas:
 
@@ -52,7 +58,7 @@ El panel de control de ventas terminado tiene tres páginas:
 - La segunda página resume el impacto de los feriados.
 - La tercera página trata el impacto de las variables externas sobre las ventas.
 
-**Conclusiones.**
+## **Conclusiones.**
 
 - Se encuentra el mayor pico de ventas en los últimos meses de los años 2010 y 2011. Cabe mencionar que aún no se tiene datos de los últimos meses del 2012 pero se esperaría encontrar nuevamente un aumento de las ventas como en anteriores años.
 - Las ventas obtenidas en las semanas que hubo un feriado fueron mayores en promedio que en las que no. Aunque esta observación se requiere estudiar más a fondo debido a la cantidad de datos con las que se cuenta en cada categoría.
