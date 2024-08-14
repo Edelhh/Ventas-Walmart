@@ -1,4 +1,4 @@
-**Análisis de ventas Walmart 2010 – 2012.**
+# *Análisis de ventas Walmart 2010 – 2012.*
 
 Link de data: https://www.kaggle.com/datasets/mikhail1681/walmart-sales/data
 
